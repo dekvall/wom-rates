@@ -1,7 +1,7 @@
 export default
 {
   "type": "misc",
-  "date": "2021-04-26",
+  "date": "2021-07-14",
   "bosses": [
     {
       "boss": "clue_all",

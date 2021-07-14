@@ -1,11 +1,11 @@
 export default
 {
   "type": "ehb",
-  "date": "2021-04-26",
+  "date": "2021-07-14",
   "bosses": [
     {
       "boss": "abyssal_sire",
-      "rate": 34.0
+      "rate": 42.0
     },
     {
       "boss": "alchemical_hydra",
@@ -13,7 +13,7 @@ export default
     },
     {
       "boss": "callisto",
-      "rate": 30.0
+      "rate": 50.0
     },
     {
       "boss": "cerberus",
@@ -37,11 +37,11 @@ export default
     },
     {
       "boss": "commander_zilyana",
-      "rate": 45.0
+      "rate": 55.0
     },
     {
       "boss": "corporeal_beast",
-      "rate": 25.0
+      "rate": 50.0
     },
     {
       "boss": "dagannoth_prime",
@@ -57,11 +57,11 @@ export default
     },
     {
       "boss": "general_graardor",
-      "rate": 30.0
+      "rate": 50.0
     },
     {
       "boss": "giant_mole",
-      "rate": 80.0
+      "rate": 100.0
     },
     {
       "boss": "grotesque_guardians",
@@ -69,11 +69,11 @@ export default
     },
     {
       "boss": "kalphite_queen",
-      "rate": 35.0
+      "rate": 50.0
     },
     {
       "boss": "king_black_dragon",
-      "rate": 110.0
+      "rate": 120.0
     },
     {
       "boss": "kraken",
@@ -85,19 +85,15 @@ export default
     },
     {
       "boss": "kril_tsutsaroth",
-      "rate": 40.0
-    },
-    {
-      "boss": "the_nightmare",
-      "rate": 14.0
+      "rate": 65.0
     },
     {
       "boss": "sarachnis",
-      "rate": 60.0
+      "rate": 80.0
     },
     {
       "boss": "scorpia",
-      "rate": 100.0
+      "rate": 130.0
     },
     {
       "boss": "skotizo",
@@ -117,7 +113,7 @@ export default
     },
     {
       "boss": "thermonuclear_smoke_devil",
-      "rate": 110.0
+      "rate": 125.0
     },
     {
       "boss": "tzkal-zuk",
@@ -129,7 +125,7 @@ export default
     },
     {
       "boss": "venenatis",
-      "rate": 44.0
+      "rate": 50.0
     },
     {
       "boss": "vetion",
@@ -142,6 +138,18 @@ export default
     {
       "boss": "zulrah",
       "rate": 35.0
+    },
+    {
+      "boss": "the_nightmare",
+      "rate": 14.0
+    },
+    {
+      "boss": "theatre_of_blood_challenge_mode",
+      "rate": 3.0
+    },
+    {
+      "boss": "phosanis_nightmare",
+      "rate": 5.0
     }
   ]
 }
